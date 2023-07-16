@@ -1,0 +1,30 @@
+.footer__logo{
+    margin-bottom: 2rem;
+  }
+  .social__poragrph{
+    color: $main-text-color;
+    margin-bottom: 5.5rem;
+  }
+  .social__icon__img{
+    margin-right: 2rem;
+  }
+  .social__icon__img:hover svg path {
+    fill: #ffa800;
+  }
+  .footer__container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .social {
+    width: 34.4rem;
+  }
+  .footer__list{
+    h4 {
+      color: $cyan-color;
+      margin-bottom: 2.8rem;
+    }
+    a{
+      color: $main-text-color;
+      margin-bottom: 1rem;
+    }
+  }
